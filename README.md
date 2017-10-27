@@ -142,11 +142,15 @@
             1. テスト設計→実施→障害対応
             2. テスト設計→プログラミング→テスト実施→障害対応
             3. 機能設計→テスト設計→プログラミング→テスト実施→障害対応
-- 成果物
-    - [VCS入門](https://github.com/masaru-b-cl/introduction-to-vcs/)
-    - [Subversion入門 for Windows](https://github.com/masaru-b-cl/introduction-to-svn)
-    - [DBプログラミング入門 by ODP.NET](https://github.com/masaru-b-cl/introduction-to-db-programming-by-odp-dot-net)
-    - [GUIプログラミング入門 for Windows Forms](https://github.com/masaru-b-cl/introduction-to-winforms-programming)
+### 成果物
+- VCS入門  
+  https://github.com/masaru-b-cl/introduction-to-vcs
+- Subversion入門 for Windows  
+  https://github.com/masaru-b-cl/introduction-to-svn
+- DBプログラミング入門 by ODP.NET  
+  https://github.com/masaru-b-cl/introduction-to-db-programming-by-odp-dot-net
+- GUIプログラミング入門 for Windows Forms  
+  https://github.com/masaru-b-cl/introduction-to-winforms-programming
 
 ## 2016/6-2016/8 | 出張管理システム構築
 
