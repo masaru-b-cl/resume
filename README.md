@@ -8,6 +8,7 @@
 - GitHub:https://github.com/masaru-b-cl
 - Twitter: https://twitter.com/masasru_b_cl
 - Qiita: https://qiita.com/masaru_b_cl
+- SlideShare: https://www.slideshare.net/masaru_b_cl
 
 
 スキル
