@@ -299,12 +299,11 @@ VB6+SPREAD+oo4oで構築されたクライアントサーバーシステムを�
 
 ### Niigat.NET https://ngtnet.connpass.com/
 
-- 主催として過去3回勉強会を開催
+- 主催として過去4回勉強会を開催
+    - https://takanosho.wordpress.com/2017/11/22/ngtnet3/
     - https://takanosho.wordpress.com/2016/11/30/ngtnet2-1/
     - https://takanosho.wordpress.com/2016/05/24/ngtnet2/
     - https://takanosho.wordpress.com/2015/10/14/ngtnet-2015-10/
-- 2017/11/18(土)に第4回目を予定している
-    - https://ngtnet.connpass.com/event/69634/
 
 職歴
 ===
