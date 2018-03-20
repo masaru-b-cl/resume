@@ -41,6 +41,11 @@
 - CGIで構築された小規模なシステムをMojolicious Liteを使うように改修した実績あり
 - CPANから必要なモジュールを探して組み合わせて活用できる
 
+## Go
+
+- [A Tour of Go](https://tour.golang.org)をさらった
+- [テスト駆動開発](https://www.ohmsha.co.jp/book/9784274217883/)のMoneyを写経した
+
 ## Web
 
 - HTTPの仕組みは大まかに理解している
