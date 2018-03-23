@@ -297,6 +297,7 @@ VB6+SPREAD+oo4oで構築されたクライアントサーバーシステムを�
 ### 長岡 IT開発者 勉強会(NDS) http://nagaoka.techtalk.jp/no53
 
 - 初期メンバーとして現在まで数多くのセッションを行っている
+    - https://takanosho.wordpress.com/2018/03/20/nds55/
     - https://takanosho.wordpress.com/2017/06/19/nds51-and-nds52/
     - https://takanosho.wordpress.com/2015/03/02/nds40/
     - https://takanosho.wordpress.com/2014/12/15/owin-at-niigatapm-and-nds39/
