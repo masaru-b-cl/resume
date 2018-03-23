@@ -97,12 +97,12 @@
 ## 資格
 
 - 情報処理技術者試験
-    - 基本情報処理技術者
-    - ソフトウェア開発技術者
-    - テクニカルエンジニア(ネットワーク)
-    - データベーススペシャリスト
-    - 情報セキュリティスペシャリスト
     - システムアーキテクト
+    - 情報セキュリティスペシャリスト
+    - データベーススペシャリスト
+    - テクニカルエンジニア(ネットワーク)
+    - ソフトウェア開発技術者
+    - 基本情報処理技術者
 - マイクロソフト認定プロフェッショナル
     - MCAD(Microsoft Certified Application Developer)
 
@@ -149,6 +149,7 @@
             2. テスト設計→プログラミング→テスト実施→障害対応
             3. 機能設計→テスト設計→プログラミング→テスト実施→障害対応
 ### 成果物
+
 - VCS入門  
   https://github.com/masaru-b-cl/introduction-to-vcs
 - Subversion入門 for Windows  
@@ -244,49 +245,57 @@ VB6+SPREAD+oo4oで構築されたクライアントサーバーシステムを�
 ## 執筆活動
 
 ### 書籍
-- かんたんASP.NET（2010年、技術評論社）  
-  http://gihyo.jp/book/2010/978-4-7741-4306-4
+- アプリを作ろう! Visual C# 入門 - Visual C# 2017 対応  
+  http://ec.nikkeibp.co.jp/item/books/P53550.html
 - JavaScriptライブラリ実践活用［厳選111］  
   http://gihyo.jp/book/2013/978-4-7741-5611-8
     - Web転載 http://www.buildinsider.net/web/bookjslib111
-- アプリを作ろう! Visual C# 入門 - Visual C# 2017 対応  
-  http://ec.nikkeibp.co.jp/item/books/P53550.html
+- かんたんASP.NET（2010年、技術評論社）  
+  http://gihyo.jp/book/2010/978-4-7741-4306-4
 
 ### Web掲載記事
 
+- CodeZine
+    - 連載
+        - ASP.NET Identity入門  
+          http://codezine.jp/article/corner/511
+        - 実例で学ぶASP.NET 4.5 Webフォーム 新機能活用法  
+          http://codezine.jp/article/corner/484
+        - 実例で学ぶASP.NET Webフォーム業務アプリケーション開発のポイント  
+          http://codezine.jp/article/corner/445
+    - 企画物
+        - 実例に学ぶチーム開発におけるNuGet導入のすすめ  
+          https://codezine.jp/article/corner/587
+        - さらに使いやすく便利になった「Visual Studio」を始めよう！
+            - 拡張機能を利用してVisual Studioをより便利にしよう  
+              https://codezine.jp/article/detail/8318
+            - Visual Studioのコード分析機能を利用してコードの品質を上げよう  
+              https://codezine.jp/article/detail/8403
 - .NET開発者中心 厳選ブログ記事 - .NET開発を始めるVB6プログラマーが知るべき9のこと  
   http://www.atmarkit.co.jp/fdotnet/chushin/greatblogentry_01/greatblogentry_01_01.html
-- CodeZine
-    - 実例で学ぶASP.NET Webフォーム業務アプリケーション開発のポイント  
-      http://codezine.jp/article/corner/445
-    - 実例で学ぶASP.NET 4.5 Webフォーム 新機能活用法    
-      http://codezine.jp/article/corner/484
-    - ASP.NET Identity入門  
-      http://codezine.jp/article/corner/511
-    - 実例に学ぶチーム開発におけるNuGet導入のすすめ  
-      https://codezine.jp/article/corner/587
-    - さらに使いやすく便利になった「Visual Studio」を始めよう！
-        - 拡張機能を利用してVisual Studioをより便利にしよう  
-          https://codezine.jp/article/detail/8318
-        - Visual Studioのコード分析機能を利用してコードの品質を上げよう  
-          https://codezine.jp/article/detail/8403
-- 窓の杜 - 【REVIEW】編集中ファイルを“Gist”で公開できるVisual Studio拡張「GistSharpExtension」 
-  http://www.forest.impress.co.jp/docs/review/20120612_538135.html
 
 ## OSSプロダクト
 
-- GistSharp - Gistへ投稿するライブラリ、VS拡張、スタンドアロンアプリケーション  
-  https://github.com/masaru-b-cl/GistSharp
+- MilkSharp - .NET Standard 2.0準拠のRemember the Milk API Toolkit  
+  https://github.com/masaru-b-cl/MilkSharp
 - Reactive the Mild - Remember the Mild APIのReactiveExtensionsによるラッパーライブラリ  
   https://github.com/masaru-b-cl/ReactiveTheMilk
-- MilkSharp - Remember the Milk API Toolkitの焼き直し  
-  https://github.com/masaru-b-cl/MilkSharp
+- GistSharp - Gistへ投稿するライブラリ、VS拡張、スタンドアロンアプリケーション  
+  https://github.com/masaru-b-cl/GistSharp
 - DynamicLTSV - C#によるLTSVパーサー/ジェネレーター  
   https://github.com/masaru-b-cl/DynamicLTSV
 
 その他GitHubを参照のこと。
 
 ## コミュニティ活動
+
+### Niigat.NET https://ngtnet.connpass.com/
+
+- 主催として過去4回勉強会を開催
+    - https://takanosho.wordpress.com/2017/11/22/ngtnet3/
+    - https://takanosho.wordpress.com/2016/11/30/ngtnet2-1/
+    - https://takanosho.wordpress.com/2016/05/24/ngtnet2/
+    - https://takanosho.wordpress.com/2015/10/14/ngtnet-2015-10/
 
 ### TDD Boot Camp http://devtesting.jp/tddbc/
 
@@ -302,14 +311,6 @@ VB6+SPREAD+oo4oで構築されたクライアントサーバーシステムを�
     - https://takanosho.wordpress.com/2015/03/02/nds40/
     - https://takanosho.wordpress.com/2014/12/15/owin-at-niigatapm-and-nds39/
     - https://takanosho.wordpress.com/2014/01/21/nds35/
-
-### Niigat.NET https://ngtnet.connpass.com/
-
-- 主催として過去4回勉強会を開催
-    - https://takanosho.wordpress.com/2017/11/22/ngtnet3/
-    - https://takanosho.wordpress.com/2016/11/30/ngtnet2-1/
-    - https://takanosho.wordpress.com/2016/05/24/ngtnet2/
-    - https://takanosho.wordpress.com/2015/10/14/ngtnet-2015-10/
 
 職歴
 ===
@@ -335,3 +336,4 @@ VB6+SPREAD+oo4oで構築されたクライアントサーバーシステムを�
 長岡工業高等専門学校（新潟県長岡市）
 
 電子制御工学科 準学士
+
