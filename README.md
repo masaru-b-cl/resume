@@ -158,6 +158,10 @@
   https://github.com/masaru-b-cl/introduction-to-db-programming-by-odp-dot-net
 - GUIプログラミング入門 for Windows Forms  
   https://github.com/masaru-b-cl/introduction-to-winforms-programming
+- バッチプログラミング入門 by C#  
+  https://github.com/masaru-b-cl/introduction-to-batch-programming-by-csharp
+- 車窓からのTDD by C#  
+  https://github.com/masaru-b-cl/stack-tdd-by-csharp
 
 ## 2016/6-2016/8 | 出張管理システム構築
 
