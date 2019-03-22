@@ -114,15 +114,19 @@
 
 ## 2018/9 - 現在 | RESTful Web APIなマイクロサービス設計・開発
 
-- 環境
-    - macOS High Sierra
+- 開発環境
+    - macOS Mojave
     - Java
     - Spring Boot
     - MySQL
+    - IntelliJ IDEA
 - 担当作業
     - 設計
     - ドキュメント作成
     - etc...
+- 主な成果
+    - 組み合わせ割引の導入
+    - 軽減税率対応
 
 ## 2017/5 - 2018/6 | 製造・販売業某社の基幹システム更改
 
