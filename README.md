@@ -2,7 +2,7 @@
 ===
 
 - 氏名: 高野 将（たかの しょう）
-- 生年月日: 1980/10/24 (現在37歳)
+- 生年月日: 1980/10/24
 - 住所: 新潟県長岡市
 - Blog: http://takanosho.wordpress.com
 - GitHub:https://github.com/masaru-b-cl
