@@ -4,12 +4,11 @@
 - 氏名: 高野 将（たかの しょう）
 - 生年月日: 1980/10/24
 - 住所: 新潟県長岡市
-- Blog: http://takanosho.wordpress.com
+- Blog: http://takanosho.wordpress.com / https://dev.classmethod.jp/author/takano-sho/
 - GitHub:https://github.com/masaru-b-cl
 - Twitter: https://twitter.com/masaru_b_cl
 - Qiita: https://qiita.com/masaru_b_cl
 - SlideShare: https://www.slideshare.net/masaru_b_cl
-
 
 スキル
 ===
@@ -30,10 +29,12 @@
 
 ## Java
 
-- 言語 : OOPの原則などを考慮したクラス設計ができる程度だが、Java7以降の情報には疎い
+- 言語 : OOPの原則などを考慮したクラス設計ができ、Java 8移行の言語機能も把握している
 - JDBC : 基本的な型階層と使い方がわかる
-- アプリケーションフレームワーク : Struts 1.x系を基本としたフレームワークを利用できる
-- テスティングフレームワーク : JUnit4およびMockitoと用いたユニットテストが可能
+- アプリケーションフレームワーク
+    - Spring Bootを利用できる
+    - Struts 1.x系をベースにしたフレームワークを利用できる
+- テスティングフレームワーク : JUnit (4 & 5) および Mockito を用いたユニットテストが可能
 - ビルド : Antによるビルド→デプロイができる
 
 ## Perl
@@ -49,6 +50,7 @@
 ## Web
 
 - HTTPの仕組みは大まかに理解している
+- REST APIの設計原則は理解している
 - HTMLは問題なく読み書きできる
 - CSSフレームワークは利用したことがないが読むことは可能
 - JavaScriptはES5相当の基本は身に付けていて非Node環境にてjQueryやMoment.jsなどのライブラリを使用できる
@@ -56,15 +58,17 @@
 
 ## RDBMS
 
-- 日ごろ利用しているのはSQL Server、Oracle
+- 日ごろ利用しているのはMySQL
+    - 過去にSQL Server、Oracle
 - SQLは業務アプリケーション開発に必要な基本的なDML、DDLが書ける
+- データモデルの設計ができる
 - RDBMS自体の設計、運用は経験なし
 
 ## OS
 
 - Windows : 大抵の操作を調べずにできる
 - Linux : リファレンスを見ながら操作できる
-- Mac : 触り始め
+- Mac : 大抵の操作を調べずにできる
 
 ## 構成管理
 
@@ -114,13 +118,17 @@
 
 ## 2018/9 - 現在 | RESTful Web APIなマイクロサービス設計・開発
 
+https://prismatix.jp の注文マイクロサービス開発リーダー
+
 - 開発環境
-    - macOS Mojave
-    - Java
+    - macOS Catalina
+    - Java 8 or later
     - Spring Boot
+    - Gradle
     - MySQL
     - IntelliJ IDEA
 - 担当作業
+    - タスク管理
     - 設計
     - ドキュメント作成
     - etc...
@@ -271,6 +279,8 @@ VB6+SPREAD+oo4oで構築されたクライアントサーバーシステムを�
 ## 執筆活動
 
 ### 書籍
+- 日経BP SHOP｜作って楽しむプログラミング　Visual C# 2019超入門  
+  https://shop.nikkeibp.co.jp/front/commodity/0000/P53990/
 - アプリを作ろう! Visual C# 入門 - Visual C# 2017 対応  
   http://ec.nikkeibp.co.jp/item/books/P53550.html
 - JavaScriptライブラリ実践活用［厳選111］  
@@ -328,10 +338,14 @@ VB6+SPREAD+oo4oで構築されたクライアントサーバーシステムを�
 - TDDBC 長岡 1.0を主催  
     - http://devtesting.jp/tddbc/?TDDBC%E9%95%B7%E5%B2%A11.0
     - https://takanosho.wordpress.com/2013/05/20/report-tddbc-nagaoka-1-0/
+- TDDBC 長岡 2019-02 を主催  
+    - [TDDBC 長岡 2019-02 - connpass](https://tddbc.connpass.com/event/112293/)
+    - [「TDDBC 長岡 2019-02」を2019/2/9(土)に開催しました #tddbc | Developers.IO](https://dev.classmethod.jp/articles/tddbc-nagaoka-2019-02-report/)
 
 ### 長岡 IT開発者 勉強会(NDS) http://nagaoka.techtalk.jp/no53
 
 - 初期メンバーとして現在まで数多くのセッションを行っている
+    - https://dev.classmethod.jp/articles/nds58-report/
     - https://takanosho.wordpress.com/2018/03/20/nds55/
     - https://takanosho.wordpress.com/2017/06/19/nds51-and-nds52/
     - https://takanosho.wordpress.com/2015/03/02/nds40/
