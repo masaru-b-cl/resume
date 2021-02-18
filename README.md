@@ -342,7 +342,7 @@ VB6+SPREAD+oo4oで構築されたクライアントサーバーシステムを�
     - [TDDBC 長岡 2019-02 - connpass](https://tddbc.connpass.com/event/112293/)
     - [「TDDBC 長岡 2019-02」を2019/2/9(土)に開催しました #tddbc | Developers.IO](https://dev.classmethod.jp/articles/tddbc-nagaoka-2019-02-report/)
 
-### 長岡 IT開発者 勉強会(NDS) http://nagaoka.techtalk.jp/no53
+### 長岡 IT開発者 勉強会(NDS) https://sites.google.com/site/ndssite
 
 - 初期メンバーとして現在まで数多くのセッションを行っている
     - https://dev.classmethod.jp/articles/nds58-report/
