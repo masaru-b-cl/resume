@@ -116,7 +116,32 @@
 職務経歴
 ===
 
-## 2018/9 - 現在 | RESTful Web APIなマイクロサービス設計・開発
+## 2021/7 - 現在 | RESTful Web APIなマイクロサービス開発プロジェクトマネージャー
+
+https://prismatix.jp の開発チームのプロジェクトマネージャー
+
+[prismatixの開発者から開発チームのプロジェクトマネージャーにクラスチェンジした話 | DevelopersIO](https://dev.classmethod.jp/articles/change-role-from-developer-to-project-manager/)
+
+- 開発環境
+    - macOS Big Sur
+    - Java 11
+    - Spring Boot 2.x
+    - Gradle 6
+    - MySQL 5.7 (RDS Aurora)
+    - Elasticsearch 7.9.x
+    - DynamoDB
+    - Redis
+    - ECS on Fargate
+    - 他各種AWSリソース多数
+    - IntelliJ IDEA
+- 担当作業
+    - 開発チームのタスクコントロール
+    - 周辺ステークホルダーとの調整・協働
+    - チーム一体化
+    - 開発プロセス改善
+    - etc...
+
+## 2018/9 - 2021/6 | RESTful Web APIなマイクロサービス設計・開発
 
 https://prismatix.jp の注文マイクロサービス開発リーダー
 
