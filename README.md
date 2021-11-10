@@ -339,7 +339,7 @@ VB6+SPREAD+oo4oで構築されたクライアントサーバーシステムを�
 
 - MilkSharp - .NET Standard 2.0準拠のRemember the Milk API Toolkit  
   https://github.com/masaru-b-cl/MilkSharp
-- Reactive the Mild - Remember the Mild APIのReactiveExtensionsによるラッパーライブラリ  
+- Reactive the Milk - Remember the Mild APIのReactiveExtensionsによるラッパーライブラリ  
   https://github.com/masaru-b-cl/ReactiveTheMilk
 - GistSharp - Gistへ投稿するライブラリ、VS拡張、スタンドアロンアプリケーション  
   https://github.com/masaru-b-cl/GistSharp
