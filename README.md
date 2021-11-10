@@ -111,7 +111,8 @@
     - 基本情報処理技術者
 - マイクロソフト認定プロフェッショナル
     - MCAD(Microsoft Certified Application Developer)
-
+- AWS
+    - Cloud Practitioner
 
 職務経歴
 ===
