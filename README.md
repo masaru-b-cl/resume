@@ -117,7 +117,36 @@
 職務経歴
 ===
 
-## 2021/7 - 現在 | EC/CRMを支えるAPIプラットフォームの開発プロジェクトマネージャー
+## 2022/1 - 現在 | EC/CRMを支えるAPIプラットフォームの開発チームマネージャー
+
+https://prismatix.jp の開発チームのマネージャー
+
+prismatix開発のプロジェクトマネージャーから開発チームのマネージャーにクラスチェンジする話 | DevelopersIO
+https://dev.classmethod.jp/articles/change-role-from-project-manager-to-development-team-manager-in-prismatix/
+
+- 開発環境
+    - macOS
+    - Java 11
+    - Spring Boot 2.x
+    - Gradle 6
+    - MySQL 5.7 (RDS Aurora)
+    - Elasticsearch 7.9.x
+    - DynamoDB
+    - Redis
+    - ECS on Fargate
+    - 他各種AWSリソース多数
+    - IntelliJ IDEA
+- 担当作業
+    - 開発チームのタスクコントロール
+    - 周辺ステークホルダーとの調整・協働
+    - チーム一体化
+    - 開発プロセス改善
+    - メンタリング(1on1)
+    - 採用
+    - 育成
+    - etc...
+
+## 2021/7 - 2021/12 | EC/CRMを支えるAPIプラットフォームの開発プロジェクトマネージャー
 
 https://prismatix.jp の開発チームのプロジェクトマネージャー
 
@@ -141,6 +170,11 @@ https://prismatix.jp の開発チームのプロジェクトマネージャー
     - チーム一体化
     - 開発プロセス改善
     - etc...
+- 主な成果
+    - 開発チームのプロジェクトマネージャーになって最初にやったことn連発 | DevelopersIO  
+      https://dev.classmethod.jp/articles/various-actions-since-q1-as-a-dev-pm/
+    - 開発チームのマネージャーになるまでにやったことm連発 | DevelopersIO  
+      https://dev.classmethod.jp/articles/various-actions-until-i-become-dev-manager/
 
 ## 2018/9 - 2021/6 | RESTful Web APIなマイクロサービス設計・開発
 
