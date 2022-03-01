@@ -42,6 +42,10 @@
 - CGIで構築された小規模なシステムをMojolicious Liteを使うように改修した実績あり
 - CPANから必要なモジュールを探して組み合わせて活用できる
 
+- 参考
+    - [Perl/CGIをMojolicious+Xslate化した話 - Qiita](https://qiita.com/masaru_b_cl/items/05f600489dba107cc788)
+    - [MojoliciousでWindowsのShift-JISを扱う - Qiita](https://qiita.com/masaru_b_cl/items/9d6667438b25612f95f8)
+
 ## Go
 
 - [A Tour of Go](https://tour.golang.org)をさらった
