@@ -179,6 +179,8 @@ https://prismatix.jp の開発チームのプロジェクトマネージャー
       https://dev.classmethod.jp/articles/various-actions-since-q1-as-a-dev-pm/
     - 開発チームのマネージャーになるまでにやったことm連発 | DevelopersIO  
       https://dev.classmethod.jp/articles/various-actions-until-i-become-dev-manager/
+    - Log4shellにprismatixがチームとしてどう立ち回ったか | DevelopersIO
+      https://dev.classmethod.jp/articles/how-do-we-solve-log4shell-as-a-one-team/
 
 ## 2018/9 - 2021/6 | RESTful Web APIなマイクロサービス設計・開発
 
@@ -199,6 +201,11 @@ https://prismatix.jp の注文マイクロサービス開発リーダー
 - 主な成果
     - 組み合わせ割引の導入
     - 軽減税率対応
+    - 参考
+        - 本当に怖い軽減税率対応 by @masaru_b_cl #devio2020 | DevelopersIO
+          https://dev.classmethod.jp/articles/really-scary-reduced-tax-rate-support-devio2020/
+        - 複数条件の組み合わせによるテストケース数爆発と戦うPairwise(ペアワイズ)法とそれを支えるツール「PICT」 | DevelopersIO
+          https://dev.classmethod.jp/articles/pairwise-testing-with-pict/
 
 ## 2017/5 - 2018/6 | 製造・販売業某社の基幹システム更改
 
